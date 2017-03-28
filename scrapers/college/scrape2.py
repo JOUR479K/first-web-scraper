@@ -7,6 +7,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 years = ['2014-2015', '2015-2016']
+list_of_rows = []
 
 for year in years:
     print year
@@ -15,8 +16,7 @@ for year in years:
 
     soup = BeautifulSoup(html)
     table = soup.find('table')
-
-    list_of_rows = []
+    
     for row in table.findAll('tr')[1:-1]:
         list_of_cells = []
         # i need to put the year into the list of cells
