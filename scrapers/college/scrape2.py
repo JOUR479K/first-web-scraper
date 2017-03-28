@@ -17,7 +17,7 @@ for year in years:
     soup = BeautifulSoup(html)
     table = soup.find('table')
     
-    for row in table.findAll('tr')[1:-1]:
+    for row in table.findAll('tr')[1:]:
         list_of_cells = []
         # i need to put the year into the list of cells
         list_of_cells.append(year)
