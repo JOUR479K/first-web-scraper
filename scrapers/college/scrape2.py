@@ -1,7 +1,6 @@
 import csv
 import requests
 from BeautifulSoup import BeautifulSoup
-
 years = ['2010-2011', '2011-2012', '2012-2013', '2013-2014', '2014-2015', '2015-2016']
 list_of_rows = []
 
