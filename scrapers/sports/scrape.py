@@ -26,5 +26,5 @@ for month in months:
 
 outfile = open("transactions.csv", "wb")
 writer = csv.writer(outfile)
-writer.writerow(["date", "text"])
+writer.writerow(["date", "url", "text"])
 writer.writerows(list_of_rows)
