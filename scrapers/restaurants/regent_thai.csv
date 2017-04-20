@@ -1,0 +1,98 @@
+Restaurant,Item,Description,Price
+Regent Thai,Curry Puff (2 pcs.),"Deep-fried puff pastry filled with minced chicken, potatoes , onions  and curry powder served with fresh cucumber relish",$5.95
+Regent Thai,Chicken Satay (4 skewers),Grilled chicken skewer served with our peanut sauce and fresh cucumber relish,$6.95
+Regent Thai,Kanom Jeeb (6 pcs.),"Steamed dumplings stuffed with pork, crab meat,shrimp and water chestnuts, served with chef's special sauce",$6.95
+Regent Thai,Edamame,,$6.00
+Regent Thai,Spring Rolls (Vegetarian),"Deep-fried mixed vegetable spring rolls served with our sweet & sour sauce
+     cut",$5.95
+Regent Thai,Shrimp Toast (4 pcs.),Deep-Fried minced shrimp on bread served with cucumber relish,$7.95
+Regent Thai,Goong Tod Mun (2 pcs.),"Minced shrimp, lightly battered deep-fried served with sweet chili sauce and crushed peanut",$7.95
+Regent Thai,Pla Muek Tod,"Fresh squid lightly battered deep-fried served 
+    with sweet & sour sauce",$6.95
+Regent Thai,Goong Sarong (4 pcs.),"Deep-fried shrimp in Thai wrapper served 
+    with sweet & sour sauce",$6.95
+Regent Thai,Fried Tofu (Vegetarian),Fried fresh tofu served with sweet & sour sauce and crushed peanuts.,$6.95
+Regent Thai,Garden Herb Rolls (Vegetarian),"Mixed vegetables, sweet basil, noodles, wrapped in rice paper served with peanut-chili dipping sauce",$6.95
+Regent Thai,Tom Yum Shrimp,Shrimp and mushrooms in lemon grass hot&sour; soup,$6.95
+Regent Thai,Tom Yum Seafood,Seafood and mushrooms in lemon grass hot&sour; soup,$6.95
+Regent Thai,Tom Kha,Tom Kha Gai,$5.95
+Regent Thai,Poh Tack,"Seafood combination, mushrooms and basil leaves in spicy lemon grass soup",$6.95
+Regent Thai,Poh Tack Shrimp,Shrimp and basil leaves in spicy lemon grass soup,$6.95
+Regent Thai,Vegetable Soup,Mixed vegetables soup,$5.95
+Regent Thai,Tofu Soup,Fresh tofu and mixed vegetables soup,$5.95
+Regent Thai,Seaweed Soup,Seaweed and mixed vegetables soup,$5.95
+Regent Thai,Grilled Chicken Salad,Grilled chicken and mixed green salad served with peanut dressing,$8.95
+Regent Thai,Larb Gai Salad,"Ground chicken mixed with spicy lime juice, red onion, green onion, mint, cilantro, and Thai herbs",$7.95
+Regent Thai,Mango Salad,"Julienned green mango, roasted ground coconut and chopped red onion in chili and garlic dressing",$7.95
+Regent Thai,Num Tok Salad,"Grilled beef tossed in spicy lime dressing, red onion, green onion, mint, cilantro, and Thai herbs",$7.95
+Regent Thai,Pla Goong Salad,Grilled shrimp tossed in chili paste & lime dressing,$7.95
+Regent Thai,Papaya Salad,Julienned green papaya in tasty spicy lime garlic dressing.,$6.95
+Regent Thai,Sea War Salad,"Seafood salad with Thai herbs and clear noodles. This is spectacular salad with shrimp, scallop and squid",$8.95
+Regent Thai,Regent Green Salad (Vegetarian),Mixed green salad served with peanut dressing,$6.95
+Regent Thai,Panang,Our curry combined with coconut milk and kaffir lime leaves,
+Regent Thai,Green or Red Curry,"Our  green or red curry combined with coconut  milk, eggplant, basil  leaves, bamboo shoot and bell pepper",
+Regent Thai,Pad Eggplant,Stir-fried choice of meat with eggplant in a spicy black bean and sweet basil sauce,
+Regent Thai,Pad Ginger,"Stir-fried julienned fresh ginger, green onion, mushrooms in light bean sauce",
+Regent Thai,Pad Prig King,Stir-fried string beans in prig king (red curry paste) sauce,
+Regent Thai,Cashew Chicken,"Batter-fried chicken  sautéed with  roasted cashew nuts ,celery ,carrot, onion and bell pepper in chef  special  sauce",
+Regent Thai,Pad Gra Prao,"Choice of meat stir-fried with sweet basil leaves, white onions, green beans in spicy chili garlic sauce",
+Regent Thai,Pad Thai Noodle,"Stir-fried rice noodles, bean sprout, scallions, egg, tofu and crushed peanut in our pad thai sauce",
+Regent Thai,Drunken Noodle,"Stir-fried wide rice noodles , sweet  basil leaves ,tomatoes ,bell pepper ,onion, carrot in spicy chili  garlic sauce",
+Regent Thai,Pad See Ew,"Stir-fried wide rice noodles , egg and broccoli in sweet soy sauce",
+Regent Thai,Fried Rice,"Stir-fried jasmine rice , egg , carrots, tomatoes, onion and scallions with the Regent style sauce",
+Regent Thai,Basil Fried Rice,"Stir-fried jasmine rice, sweet basil  leaves ,green pepper and bell pepper in spicy chili garlic sauce",
+Regent Thai,Pad Vegetable,"Sauteed mixed vegetables, mushroom and fried tofu in light brown sauce",
+Regent Thai,Panang,"Our curry combined with coconut milk and kefir lime leaves.Choices of chicken or pork or beef, shrimp, grilled salmon, and seafoodChoice of meat:<ul class=""choices""><li>Chicken or Pork or Beef<span class=""price"">","Choices of chicken or pork or beef, shrimp, grilled salmon, and seafood"
+Regent Thai,Green or Red Curry,"Our green or red curry combined with coconut milk, eggplants, bamboo shoots and basil leaves.Choices of chicken or pork or beef, shrimp, grilled salmon, and seafood","Choices of chicken or pork or beef, shrimp, grilled salmon, and seafood"
+Regent Thai,Gang Ped Yang,"Roasted duck in red curry sauce, pineapple, lychee
+     and tomatoes",$13.95
+Regent Thai,Pad Eggplant,"Sautéed eggplants with spicy black bean basil sauce.Choices of chicken or pork or beef, shrimp, and seafood","Choices of chicken or pork or beef, shrimp, and seafood"
+Regent Thai,Pad Ginger,"Stir-fried julienned fresh ginger, mushroom, white onion in light bean sauce.Choices of chicken or pork or beef, shrimp, and seafood","Choices of chicken or pork or beef, shrimp, and seafood"
+Regent Thai,Pad Prig King,"Choice of meat stir-fried with prig king(red curry paste) sauce and string beans.Choices of chicken or pork or beef, shrimp, seafood, and duck.","Choices of chicken or pork or beef, shrimp, seafood, and duck."
+Regent Thai,Cashew Chicken or Shrimp,"Battered deep fried chicken or shrimp sautéed with celery, carrot, white onion, bell pepper and roasted cashew nuts in chef special sauce.Choices of chicken, shrimp","Choices of chicken, shrimp"
+Regent Thai,Pad Gra Prao,"Choice of meat stir-fried with sweet basil leaves, white onions, green beans  in spicy chili garlic sauce.Choices of chicken or pork or beef, seafood, and shrimp","Choices of chicken or pork or beef, seafood, and shrimp"
+Regent Thai,Pad Thai,"Stir-fried rice noodles, bean sprouts, scallions, egg, tofu  and crushed  peanuts in our pad thai sauceChoices of chicken or pork or beef, shrimp, seafood, and grilled salmon","Choices of chicken or pork or beef, shrimp, seafood, and grilled salmon"
+Regent Thai,Drunken Noodle,"Stir-fried wide rice noodles, sweet basil leaves, tomatoes,  bell peppers, carrots in spicy chili garlic sauceChoices of chicken or pork or beef, shrimp, seafood, and grilled salmon","Choices of chicken or pork or beef, shrimp, seafood, and grilled salmon"
+Regent Thai,Pad See Ew,"Stir-fried wide rice noodles, egg and broccolis in sweet soy sauceChoices of chicken or pork or beef, shriml, and seafood","Choices of chicken or pork or beef, shriml, and seafood"
+Regent Thai,Kao Pad Crab Meat,"Stir-fried jasmine rice with crabmeat carrots, onions, celery
+     egg and scallions",$16.95
+Regent Thai,Fried Rice,"Stir-fried jasmine rice, egg, carrots, scallions, tomatoes and white onions Regent style sauceChoices of chicken or pork or beef, shrimp, and seafood","Choices of chicken or pork or beef, shrimp, and seafood"
+Regent Thai,Basil Fried Rice,"Stir-fried jasmine rice, sweet basils, green pepper and bell peppers in  spicy chili garlic sauceChoices of chicken or pork or beef, shrimp, and seafood","Choices of chicken or pork or beef, shrimp, and seafood"
+Regent Thai,Gang Massaman,"Chicken, potatoes, tomatoes, onion and peanuts in massaman (yellow curry) sauce.",$13.95
+Regent Thai,Pineapple Fried Rice,"Stir-fried jasmine rice with shrimp, egg, pineapples,
+            cashew nuts, carrots, onions, and scallions, served in 
+            pineapple shell",$17.95
+Regent Thai,Gra Prao Ped,Deep fried boneless duck with sweet basils in spicy chili garlic sauce,$15.95
+Regent Thai,Plaa Pow,Grilled whole rainbow trout stuffed in Thai herbs  served with julienned mango  spicy dipping sauce,$16.95
+Regent Thai,Neua Krata,Sizzling beef served with mixed vegetables on a hot plate,$15.95
+Regent Thai,Phi Phi Island,Shrimp and scallops in chili paste topped with crab meat,$18.95
+Regent Thai,Pla Lad Prik,Deep Fried fresh filet flounder with spicy chili garlic and sweet basil sauce,$17.95
+Regent Thai,Pla Neung Manao,Steamed fresh filet rockfish with spicy chili-lime sauce,$17.95
+Regent Thai,Panang Tofu,"Our curry combined with coconut milk, fried tofu and  kaffir lime leaves",$12.95
+Regent Thai,Green Curry Veggies,"Mixed vegetables, mushrooms and fried tofu in our spicy green curry",$12.95
+Regent Thai,Red Curry Veggies,"Mixed vegetables, mushrooms and fried tofu in our spicy red curry",$12.95
+Regent Thai,Basil Jae,"Mixed vegetables, mushrooms, fried tofu and sweet basil leaves stir-fried in our chili garlic sauce",$12.95
+Regent Thai,Regent Eggplant,Sautéed eggplants in spicy black bean sauce and sweet basils,$12.95
+Regent Thai,Pad Ginger Tofu,"Stir-fried julienned fresh ginger, mushroom, white onion in light bean sauce with fried tofu",$12.95
+Regent Thai,Pad Vegetable,"Sautéed mixed vegetables, mushrooms and fried tofu in light brown sauce",$12.95
+Regent Thai,Pad Thai Jae (egg optional),"Mixed vegetables, mushrooms, fried tofu, egg, rice noodles stir-fried with pad thai sauce and crushed peanuts",$12.95
+Regent Thai,Drunken-Noodle-Jae,"Mixed vegetables, mushrooms, tomatoes, fried tofu, onions, basil leaves and wide rice noodles stir-fried in spicy chili garlic sauce",$12.95
+Regent Thai,Pad See Ew Tofu,"Stir-fried Wide rice noodle with broccolis, egg, fried tofu in sweet thai soy sauce",$12.95
+Regent Thai,Fried Rice Jae (egg optional),"Stir-fried jasmine rice, mixed vegetables, mushrooms, fried tofu and egg with the Regent style sauce",$12.95
+Regent Thai,Basil Fried rice Tofu,"Stit-fried jasmine rice, sweet basils, green pepper and bell peppers with fried tofu  in spicy chilli garlic sauce",$12.95
+Regent Thai,Steamed Brown rice,,$3.95
+Regent Thai,Sub Steamed Brown rice,,$2.00
+Regent Thai,Steamed Jasmine rice,,$2.50
+Regent Thai,Steamed Noodles,,$2.95
+Regent Thai,Steamed Broccolis,,$3.00
+Regent Thai,Steamed mixed vegetables,,$3.00
+Regent Thai,Add seafood*,"(Shrimp, Scallops, Mussels. and Squid)",$4.95
+Regent Thai,Add extra meat*,(Chicken or Pork or Beef),$3.95
+Regent Thai,Add mixed vegetables*,,$2.95
+Regent Thai,Add fried tofu*,,$1.95
+Regent Thai,Add egg*,,$1.95
+Regent Thai,Sticky Rice with Mango,,$5.95
+Regent Thai,Sticky Rice with Ice Cream,,$6.95
+Regent Thai,Regent Coconut Ice cream,,$4.95
+Regent Thai,Regent Thai Tea Ice cream,,$4.95
+Regent Thai,Regent Green Tea Ice cream,,$4.95
